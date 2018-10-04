@@ -1,5 +1,6 @@
 # Omega Dev Playbook
 
+
 What follows is a description of development practices which should improve the quality of our work, reduce risk around deployments and increase your happiness.
 
 ## Development practice
