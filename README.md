@@ -1,4 +1,5 @@
 
+
 # Omega Dev Playbook
 
 What follows is a description of development practices which should improve the quality of our work, reduce risk around deployments and increase our happiness.
@@ -162,6 +163,14 @@ Use the Gitflow Workflow
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 Gitflow is ideally suited for projects that have a scheduled release cycle. This workflow doesn’t add any new concepts or commands beyond what’s required for the Feature Branch Workflow. Instead, it assigns very specific roles to different branches and defines how and when they should interact. In addition to feature branches, it uses individual branches for preparing, maintaining, and recording releases. Of course, you also get to leverage all the benefits of the Feature Branch Workflow: pull requests, isolated experiments, and more efficient collaboration.
+
+### Accessibilty
+
+Digital accessibility refers to the practice of building digital content and applications that can be used by a wide range of people, including individuals who have visual, motor, auditory, speech, or cognitive disabilities.
+
+There is also a strong business case for accessibility: studies show that accessible websites have better search results, they reach a bigger audience, they’re SEO friendly, have faster download times, they encourage good coding practices, and they always have better usability.
+
+[See more notes on accessibility](https://github.com/appility/btb-omega-accessibility)
 
 
 ### Deployment
