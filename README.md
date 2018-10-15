@@ -170,7 +170,7 @@ Digital accessibility refers to the practice of building digital content and app
 
 There is also a strong business case for accessibility: studies show that accessible websites have better search results, they reach a bigger audience, they’re SEO friendly, have faster download times, they encourage good coding practices, and they always have better usability.
 
-[See more notes on accessibility](https://github.com/appility/btb-omega-accessibility)
+[See more notes on accessibility](/Accessibility.md)
 
 
 ### Deployment
