@@ -62,7 +62,6 @@ When the acceptance test is green for the CI server and you and any other design
 
 #### Javascript
 
- - Prefer ES6 classes over prototypes.
  - Use strict equality checks (=== and !==) except when comparing
    against (null or undefined)
  - Prefer arrow functions => over the function keyword except when
